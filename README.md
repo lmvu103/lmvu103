@@ -21,10 +21,10 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" alt="bash" width="45" height="45"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" alt="php" width="45" height="45"/>
 </p>
-<h2> 🚀 &nbsp;My Stats</h2>
+<h2> 🎯 &nbsp;My Stats</h2>
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=lmvu103&theme=dark&background=000000)](https://git.io/streak-stats)
 
-<h2> 🚀 &nbsp;My Stats</h2>
+<h2> 😎 &nbsp;My Stats</h2>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lmvu103&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
