@@ -1,6 +1,5 @@
 # Le Minh Vu
-![visitors](https://visitor-badge.glitch.me/badge?page_id=page.id)
-<div id="header" align="center">
+<div id="header" align="leftr">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
 </div>
 <div id="badges">
